@@ -5,15 +5,15 @@ Given the data set, do a quick exploratory data analysis to get a feel for the d
 
 Consider implications of data collection, storage, and data biases you would consider relevant here considering Data Ethics, Business Outcomes, and Technical Implications
 
-Discuss Ethical implications of these factors
-Privacy concerns regarding collecting personal information from users for order prediction.
-Ensuring informed consent and transparency about data usage to the users.
-Discuss Business outcome implications of these factors
-Ensuring that the data collected aligns with the ethical standards, avoiding controversies.
-Building trust with customers by handling their data responsibly.
-Discuss Technical implications of these factors
-Data encryption and secure storage to protect sensitive information.
-Implementing data anonymization techniques to preserve privacy.
+1. Discuss Ethical implications of these factors
+-Privacy concerns regarding collecting personal information from users for order prediction.
+-Ensuring informed consent and transparency about data usage to the users.
+2. Discuss Business outcome implications of these factors
+-Ensuring that the data collected aligns with the ethical standards, avoiding controversies.
+-Building trust with customers by handling their data responsibly.
+3. Discuss Technical implications of these factors
+-Data encryption and secure storage to protect sensitive information.
+-Implementing data anonymization techniques to preserve privacy.
 
 Given the work required to bring a solution like this to maturity and its performance, what considerations would you make to determine if this is a suitable course of action?
 
