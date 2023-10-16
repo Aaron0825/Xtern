@@ -1,7 +1,11 @@
 # Xtern
 Given the data set, do a quick exploratory data analysis to get a feel for the distributions and biases of the data.  Report any visualizations and findings used and suggest any other impactful business use cases for that data.
 
+1. Visuals:
 
+2. Business Use Cases:
+* Predicting popular food choices based on college experiences can help in menu planning and optimizing inventory for FoodX.
+* Identifying trends in food preferences among students can guide marketing and promotional strategies.
 
 Consider implications of data collection, storage, and data biases you would consider relevant here considering Data Ethics, Business Outcomes, and Technical Implications
 
