@@ -2,7 +2,7 @@
 Given the data set, do a quick exploratory data analysis to get a feel for the distributions and biases of the data.  Report any visualizations and findings used and suggest any other impactful business use cases for that data.
 
 1. Visuals:
-![alt text](https://github.com/Aaron0825/Xtern/blob/main/图片1.png?raw=true)
+![alt text](https://github.com/Aaron0825/Xtern/blob/main/pics/Major.png?raw=true)
 2. Business Use Cases:
 * Predicting popular food choices based on college experiences can help in menu planning and optimizing inventory for FoodX.
 * Identifying trends in food preferences among students can guide marketing and promotional strategies.
