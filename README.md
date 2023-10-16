@@ -17,13 +17,13 @@ Consider implications of data collection, storage, and data biases you would con
 
 Given the work required to bring a solution like this to maturity and its performance, what considerations would you make to determine if this is a suitable course of action?
 
-Cost-Benefit Analysis:
+* Cost-Benefit Analysis: <br />
 Evaluate the costs associated with developing and maintaining the AI solution against the potential benefits like increased efficiency and customer satisfaction.
-User Feedback and Iterative Improvement:
+* User Feedback and Iterative Improvement: <br />
 Gather feedback from users and stakeholders to identify areas of improvement and iteratively enhance the solution.
-Scalability:
+* Scalability: <br />
 Assess the scalability of the solution to ensure it can handle increasing data and user load effectively.
-Legal and Regulatory Compliance:
+* Legal and Regulatory Compliance: <br />
 Ensure compliance with relevant laws and regulations regarding data privacy and user consent.
-Alignment with Business Goals:
+* Alignment with Business Goals: <br />
 Confirm that the AI solution aligns with the broader business goals and strategies of FoodX and TechPoint.
