@@ -11,7 +11,7 @@ Given the data set, do a quick exploratory data analysis to get a feel for the d
 * The major participants of this survey are sophomores and juniors
 ![alt text](https://github.com/Aaron0825/Xtern/blob/main/pics/Year.png?raw=true)
 * The dataset is heavily centered around three university, possibly the major client of FoodX
-![alt text](https://github.com/Aaron0825/Xtern/blob/main/pics/University.png?raw=true)
+![alt text](https://github.com/Aaron0825/Xtern/blob/main/pics/Universitypng.png?raw=true)
 
 2. Business Use Cases:
 * Predicting popular food choices based on college experiences can help in menu planning and optimizing inventory for FoodX.
