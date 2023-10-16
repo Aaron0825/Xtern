@@ -10,7 +10,7 @@ Given the data set, do a quick exploratory data analysis to get a feel for the d
 ![alt text](https://github.com/Aaron0825/Xtern/blob/main/pics/TT.png?raw=true)
 * The major participants of this survey are sophomores and juniors
 ![alt text](https://github.com/Aaron0825/Xtern/blob/main/pics/Year.png?raw=true)
-* The dataset is heavily centered around three university, possibly the major client of FoodX
+* The dataset is heavily centered around three universities, possibly the major clients of FoodX
 ![alt text](https://github.com/Aaron0825/Xtern/blob/main/pics/Universitypng.png?raw=true)
 
 2. Business Use Cases:
