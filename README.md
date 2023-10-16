@@ -7,7 +7,7 @@ Given the data set, do a quick exploratory data analysis to get a feel for the d
 * The distribution of students' food preference is overally even (no distinct outlier)
 ![alt text](https://github.com/Aaron0825/Xtern/blob/main/pics/OO.png?raw=true)
 * The Time variable is normally distributed
-![alt text](https://github.com/Aaron0825/Xtern/blob/main/pics/Time.png?raw=true)
+![alt text](https://github.com/Aaron0825/Xtern/blob/main/pics/TT.png?raw=true)
 * The major participants of this survey are sophomores and juniors
 ![alt text](https://github.com/Aaron0825/Xtern/blob/main/pics/Year.png?raw=true)
 * The dataset is heavily centered around three university, possibly the major client of FoodX
