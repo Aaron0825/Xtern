@@ -5,8 +5,15 @@ Given the data set, do a quick exploratory data analysis to get a feel for the d
 * Over half of the observations come from STEM students
 ![alt text](https://github.com/Aaron0825/Xtern/blob/main/pics/Major.png?raw=true)
 * The distribution of students' food preference is overally even (no distinct outlier)
-![alt text](https://github.com/Aaron0825/Xtern/blob/main/pics/Order.png?raw=true)
-3. Business Use Cases:
+![alt text](https://github.com/Aaron0825/Xtern/blob/main/pics/OO.png?raw=true)
+* The Time variable is normally distributed
+![alt text](https://github.com/Aaron0825/Xtern/blob/main/pics/Time.png?raw=true)
+* The major participants of this survey are sophomores and juniors
+![alt text](https://github.com/Aaron0825/Xtern/blob/main/pics/Year.png?raw=true)
+* The dataset is heavily centered around three university, possibly the major client of FoodX
+![alt text](https://github.com/Aaron0825/Xtern/blob/main/pics/University.png?raw=true)
+
+2. Business Use Cases:
 * Predicting popular food choices based on college experiences can help in menu planning and optimizing inventory for FoodX.
 * Identifying trends in food preferences among students can guide marketing and promotional strategies.
 
