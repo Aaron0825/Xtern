@@ -29,6 +29,12 @@ Consider implications of data collection, storage, and data biases you would con
 * Data encryption and secure storage to protect sensitive information.
 * Implementing data anonymization techniques to preserve privacy.
 
+Build a model to predict a customers order from their available information.
+
+1. View Prediction_Model.py
+2. Report:
+   ![alt text](https://github.com/Aaron0825/Xtern/blob/main/pics/Report.png?raw=true)
+
 Given the work required to bring a solution like this to maturity and its performance, what considerations would you make to determine if this is a suitable course of action?
 
 * Cost-Benefit Analysis: <br />
