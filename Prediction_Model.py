@@ -1,19 +1,11 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
-
 
 get_ipython().system('pip install scikit-learn')
 
 
-# In[20]:
-
-
 pip install mixed-naive-bayes
-
-
-# In[26]:
 
 
 import sklearn as sl
@@ -26,16 +18,11 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-# In[7]:
-
-
+# Loading Data
 df = pd.read_csv(r'C:\test\Xtern\XTern 2024 Artificial Intelegence Data Set - Xtern_TrainData.csv')
 dd = pd.read_csv(r'C:\test\Xtern\XTern 2024 Artificial Intelegence Data Set - Menu.csv')
 
-
-# In[9]:
-
-
+# Data Preparation
 df['Order'] = df['Order'].apply(str)
 dd['Item'] = dd['Item'].apply(str)
 df_row = df.shape[0]
@@ -53,54 +40,25 @@ for i in range(df_row):
     calorie.append(cal)
 df['Price'] = price
 df['Calories'] = calorie
-
-
-# In[10]:
-
-
 df.to_csv(r'C:\test\Xtern\Experiment.csv',index = False)
-
-
-# In[11]:
-
-
 data = pd.read_csv(r'C:\test\Xtern\Experiment.csv')
 
-
-# In[31]:
-
-
+# Convert String to categorical variable
 le = LabelEncoder()
 data['Year'] = le.fit_transform(data['Year'])
 data['Major'] = le.fit_transform(data['Major'])
 data['University'] = le.fit_transform(data['University'])
 data
 
-
-# In[32]:
-
-
+# Training & Testing Set
 x = data[['Year', 'Major', 'University', 'Time', 'Price', 'Calories']]
 y = data['Order']
 x_train,x_test,y_train,y_test=train_test_split(x,y,test_size=.3,random_state=0)
 
-
-# In[33]:
-
-
+# Training
 clf=MultinomialNB()
 clf.fit(x_train,y_train)
 
-
-# In[38]:
-
-
+#Predict
 y_pred=clf.predict(x_test)
 print(classification_report(y_test,y_pred))
-
-
-# In[ ]:
-
-
-
-
